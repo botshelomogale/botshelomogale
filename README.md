@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @botshelomogale
+- 👋 Hi, I’m @botshelomogale, Student @ WeThinkCode_
 - 🌱 I’m currently learning software development 
 - 💞️ I’m looking to collaborate on different and educational projects 
 - 📫 How to reach me: botshelomogale02@gmail.com or mogalebotshelo6@icloud.com
